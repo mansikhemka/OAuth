@@ -1,2 +1,2 @@
 # OAuth
-Learning OAuth with Twitter as a provider
+Learning OAuth with Twitter as a provider.
